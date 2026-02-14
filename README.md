@@ -1,36 +1,55 @@
-Hi there 👋 I'm Ahad Khan
-Software Engineer | Cloud Architect | AI Innovator
+<h1 align="center">Abdul Ahad Khan</h1>
+<p align="center">
+AWS/DevOps • CI/CD • Docker • AWS Amplify/EC2/SES • Full-Stack (Laravel + Node + React/Vite)
+</p>
 
-🎓 Computer Science Graduate | ☁️ Manager of Cloud & Web Dev @ Arts Council
-🚀 Founder & CEO @ CareerTech | 🔥 MERN Stack Specialist
+<p align="center">
+<a href="https://www.linkedin.com/in/abdul-ahad-b40ab2152/">LinkedIn</a> •
+<a href="mailto:kahad316@gmail.com">kahad316@gmail.com</a>
+</p>
 
-<p align="left"> <a href="#"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-brightgreen" alt="Coding Status" /> </a> </p>
-🛠️ Tech Stack
-Backend
-Laravel
-Node.js
-Java
+---
 
-Frontend
-React
-JavaScript
-TypeScript
+## What I do
+- Deploy and scale **React/Vite** frontends on **AWS Amplify** (custom domains + production releases)
+- Host and maintain **Laravel + Node.js** backends on **AWS EC2**
+- Build **CI/CD pipelines** and Docker-based deployments
+- Configure **AWS SES** for **OTP verification**, **ticket/order confirmations**, and **bulk email**
+- Domain & DNS management (production-ready)
 
-AI/ML & Cloud
-Dialogflow
-OpenAI
-AWS
-MongoDB
+---
 
-📌 Featured Projects
-🔮 [AI-Powered Resume Builder](https://github.com/yourusername/resume-ai) | React + OpenAI + Node.js  
-☁️ [Serverless Cloud Dashboard](https://github.com/yourusername/cloud-dash) | AWS Lambda + React  
-🤖 [Alan AI Voice Assistant](https://github.com/yourusername/alan-ai-demo) | Alan AI + Firebase  
+## Tech Stack
+**Cloud/DevOps:** AWS, Amplify, EC2, SES, S3, CI/CD, GitHub Actions, Docker, Linux, Nginx  
+**Backend:** Laravel (PHP), Node.js, REST APIs  
+**Frontend:** React.js, Vite, JavaScript, Tailwind CSS  
+**Databases:** MySQL, PostgreSQL, Supabase, Firebase
 
-📈 GitHub Stats
-<!-- Animated stats (using GitHub Readme Stats) --><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%" /> </p>
+---
 
-🌱 Learning Goals
-+ ✅ Advanced AWS/GCP Architectures  
-+ 🔄 Building AI-Powered Microservices  
-+ 🚀 Scaling Distributed Systems  
+## Featured Projects
+> Replace links below with your real repos/demo links.
+
+- **CI/CD + Docker Deployment Sample** — GitHub Actions + Docker deployment flow  
+  Repo: https://github.com/AhadKhan316/<your-repo>
+
+- **React Admin Dashboard Starter** — Auth + dashboard layout + clean UI  
+  Repo: https://github.com/AhadKhan316/<your-repo>
+
+- **Ticket/Order Email System (SES)** — OTP + confirmation + bulk email workflow (docs/screenshots)  
+  Repo: https://github.com/AhadKhan316/<your-repo>
+
+- **ACP Website / Organization Website** — Production web build  
+  Repo: https://github.com/AhadKhan316/<your-repo>
+
+---
+
+## Proof / Case Studies
+- AWS/DevOps Portfolio (Google Doc): <paste your doc link>
+- Full-Stack Portals (Google Doc): <paste your doc link>
+
+---
+
+## Contact
+Email: **kahad316@gmail.com**  
+LinkedIn: https://www.linkedin.com/in/abdul-ahad-b40ab2152/
